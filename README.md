@@ -8,7 +8,7 @@ If you have a Mac you should have Xcode and command line tools already installed
 
 Things to do before the workshop:
 
-1. Pull this github repository.
+(1) Pull this github repository.
 
 cd into your working directory and type:
 
@@ -16,7 +16,7 @@ cd into your working directory and type:
 
 this will create a directory called pyladies_matplotlib_ipython_notebooks.  In this directory contains this readme file as well as the python requirements you will need, the data we will be exploring during the course and the ipython notebook.
 
-2. Prepare your version of Python
+(2) Prepare your version of Python
 
 We recommend using a virtual environment.  If you don't have virtualenv installed you can install it using your default python package by typing in the command line:
 
@@ -36,7 +36,7 @@ To participate in the workshop you will need the modules in requirements.txt.  I
 
 pip install -r requirements.txt
 
-3. Download and install Basemap. You will have to go here:
+(3) Download and install Basemap. You will have to go here:
 
 http://matplotlib.org/basemap/users/installing.html
 
