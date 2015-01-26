@@ -36,7 +36,7 @@ To participate in the workshop you will need the modules in requirements.txt.  I
 
 pip install -r requirements.txt
 
-Ah-ha -- there is a trick!  Basemap probably did not install using the above command.  You will have to go here:
+3. Download and install Basemap. You will have to go here:
 
 http://matplotlib.org/basemap/users/installing.html
 

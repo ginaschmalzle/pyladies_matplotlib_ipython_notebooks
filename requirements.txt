@@ -1,7 +1,6 @@
 Jinja2==2.7.3
 MarkupSafe==0.23
 backports.ssl-match-hostname==3.4.0.2
-basemap==1.0.7
 certifi==14.05.14
 gnureadline==6.3.3
 ipython==2.3.1
