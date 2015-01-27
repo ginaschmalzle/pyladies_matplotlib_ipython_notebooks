@@ -26,7 +26,7 @@ In your working directory then type:
 
   virtualenv env
 
-To use your new version of yout virtual environment type (in your working directory):
+To use your new version of your virtual environment type (in your working directory):
 
   source env/bin/activate
 
